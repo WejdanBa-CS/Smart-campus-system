@@ -41,3 +41,4 @@ The system uses a single table named `lost_items`.
 *   `contact_info` (TEXT NOT NULL): How to reach the person who found/lost the item.
 *   `status` (TEXT NOT NULL): Current status (e.g., "Lost", "Found", "Claimed").
 
+*(Note: Screenshots of the application and database are omitted as per user request.)*
